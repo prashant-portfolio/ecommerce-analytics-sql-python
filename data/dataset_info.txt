@@ -1,0 +1,7 @@
+Dataset: Target Brazil E-Commerce Dataset
+
+Source:
+Public e-commerce dataset containing customer, order, payment, product, and delivery information used for analytical exploration and business insights generation.
+
+Note:
+The complete dataset is not uploaded due to file size considerations.
