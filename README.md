@@ -37,3 +37,12 @@ The dataset consists of e-commerce transactions from Target Brazil, including in
 - Excel (Data Cleaning)
 
 
+## Project Report
+
+Detailed analysis report and outputs can be viewed here:
+
+[View Project Report](./screenshots/Target_Brazil_Ecommerce_Analytics.pdf)
+
+
+
+
